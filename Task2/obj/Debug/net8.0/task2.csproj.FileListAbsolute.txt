@@ -1,0 +1,15 @@
+F:\C#\HashFunctions\Task2\bin\Debug\net8.0\task2.exe
+F:\C#\HashFunctions\Task2\bin\Debug\net8.0\task2.deps.json
+F:\C#\HashFunctions\Task2\bin\Debug\net8.0\task2.runtimeconfig.json
+F:\C#\HashFunctions\Task2\bin\Debug\net8.0\task2.dll
+F:\C#\HashFunctions\Task2\bin\Debug\net8.0\task2.pdb
+F:\C#\HashFunctions\Task2\obj\Debug\net8.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\HashFunctions\Task2\obj\Debug\net8.0\task2.AssemblyInfoInputs.cache
+F:\C#\HashFunctions\Task2\obj\Debug\net8.0\task2.AssemblyInfo.cs
+F:\C#\HashFunctions\Task2\obj\Debug\net8.0\task2.csproj.CoreCompileInputs.cache
+F:\C#\HashFunctions\Task2\obj\Debug\net8.0\task2.sourcelink.json
+F:\C#\HashFunctions\Task2\obj\Debug\net8.0\task2.dll
+F:\C#\HashFunctions\Task2\obj\Debug\net8.0\refint\task2.dll
+F:\C#\HashFunctions\Task2\obj\Debug\net8.0\task2.pdb
+F:\C#\HashFunctions\Task2\obj\Debug\net8.0\task2.genruntimeconfig.cache
+F:\C#\HashFunctions\Task2\obj\Debug\net8.0\ref\task2.dll
