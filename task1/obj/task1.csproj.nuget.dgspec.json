@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\HashFunctions\\task1\\task1.csproj": {}
+    "F:\\C#\\HashFunctions\\task1\\task1.csproj": {}
   },
   "projects": {
-    "D:\\C#\\HashFunctions\\task1\\task1.csproj": {
+    "F:\\C#\\HashFunctions\\task1\\task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\HashFunctions\\task1\\task1.csproj",
+        "projectUniqueName": "F:\\C#\\HashFunctions\\task1\\task1.csproj",
         "projectName": "task1",
-        "projectPath": "D:\\C#\\HashFunctions\\task1\\task1.csproj",
+        "projectPath": "F:\\C#\\HashFunctions\\task1\\task1.csproj",
         "packagesPath": "C:\\Users\\marki\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\HashFunctions\\task1\\obj\\",
+        "outputPath": "F:\\C#\\HashFunctions\\task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marki\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -20,7 +20,6 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
